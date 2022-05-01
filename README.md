@@ -7,7 +7,7 @@ Election_Analysis with Python
   
 ## 2. Election Audit Results
 
-**Total Votes: 369,711**
+**Total Votes:** 369,711
 
 **County Votes:**
   * Jefferson: 10.5% (38,855)
@@ -24,5 +24,6 @@ Election_Analysis with Python
   * Winner: Diana DeGette
   * Winning Vote Count: 272,892
   * Winning Percentage: 73.8%
+
 
 ## 3. Election Audit Summary
