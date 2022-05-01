@@ -25,6 +25,6 @@ Election_Analysis with Python
   * Winning Vote Count: 272,892
   * Winning Percentage: 73.8%
 
-[Vote Results](election_analysis.txt)
+[Election Audit Results](election_analysis.txt)
 
 ## 3. Election Audit Summary
