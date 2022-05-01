@@ -28,3 +28,5 @@ Election_Analysis with Python
 [Election Audit Results](election_analysis.txt)
 
 ## 3. Election Audit Summary
+In order to use this script for any election, we can modify the script as follow:
+  * Allow to the user enter the resulst file (.cvs)
