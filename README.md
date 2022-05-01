@@ -29,4 +29,6 @@ Election_Analysis with Python
 
 ## 3. Election Audit Summary
 In order to use this script for any election, we can modify the script as follow:
-  * Allow to the user enter the resulst file (.cvs)
+  * Add an UploadFile method in order to allow the user to enter any result file (.cvs).
+  
+  
